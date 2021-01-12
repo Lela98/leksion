@@ -1,0 +1,1 @@
+console.log("Jam ne javascript!")
